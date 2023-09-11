@@ -6,4 +6,7 @@ Link:https://www.coursera.org/professional-certificates/ibm-data-engineer#course
 In this course, I've learned:
 1. Using python, pandas to perform ETL process
 2. Creating relational database using phpMyAdmin and pgAdmin, design and normalize database using ERD. How to import data into IBM DB2
-3. Connecting and operate DB2 database with Python 
+3. Connecting and operate DB2 database with Python
+4. Building ETL and Data Pipelines with Shell, Airflow and Kafka
+5. Building ETL and ML Pipelines with Spark
+
